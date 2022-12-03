@@ -9,4 +9,4 @@
 #### 2. Sort
 #### 3. User password
 #### 4. Double linked list
-> Copyright © 2022 Holberton School. All rights reserved.
+> Copyright © 2020 Holberton School. All rights reserved.
